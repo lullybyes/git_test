@@ -1,0 +1,2 @@
+Hello, World.
+The first program most will create. This document is my commitment to learn to be a good programmer.
